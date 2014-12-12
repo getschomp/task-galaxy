@@ -8,3 +8,5 @@ gem "sinatra-activerecord"
 group :development do
   gem "pry"
 end
+
+gem 'sinatra-reloader'
