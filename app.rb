@@ -13,4 +13,5 @@ end
 
 get "/" do
   "hello, world"
+  binding.pry
 end
